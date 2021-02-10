@@ -1,0 +1,7 @@
+"cocur/slugify": "^4.0"
+"darryldecode/cart": "^4.0"
+"guzzlehttp/guzzle": "^6.3"
+"james-heinrich/geid3": "^1.9"
+"spatie/laravel-newsletter": "^4.8"
+"stripe/stripe-php": "^7.27"
+
